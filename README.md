@@ -1,6 +1,7 @@
 # Credit Card Fraud Detection
 
 Author : Nathan Kadimisha
+
 Email : Eagleintllc@gmail.com
 
 Linkedin : [Nathan Kadimisha](https://www.linkedin.com/in/nathan-m-kadimisha-026871259/)
